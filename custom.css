@@ -1,0 +1,21 @@
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+ul {
+	list-style: none; 
+	border: solid 2px black;
+	padding: 0px; 
+	background-color: rgba(255,255,255,.3);
+}
+li{
+	border: solid 1px gray;
+	font: 30px bold blue;
+	
+}
+
+
